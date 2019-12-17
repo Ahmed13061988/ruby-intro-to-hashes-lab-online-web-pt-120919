@@ -9,7 +9,8 @@ def actor
 end
 
 def monopoly
-	monopoly = {:railroads=>""}
+	monopoly = hash 
+	hash = {:railroads=>""}
 
 end
 
