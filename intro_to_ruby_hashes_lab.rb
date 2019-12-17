@@ -4,6 +4,10 @@ def new_hash
 end
 
 def actor
+  hash = {
+    :name=>
+    "Dwane The Rock Johnson"
+  }
 
 end
 
